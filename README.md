@@ -1,1 +1,1 @@
-# SAP1-Simple-As-Possible-1-Computer
+# Simple As Possible-1 (SAP-1) Computer
